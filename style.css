@@ -1,0 +1,30 @@
+/* Text font */
+
+/* Font bold */
+@import url(//db.onlinewebfonts.com/c/1938eca97ab5576ba37b537143f552ef?family=adineue+PRO);
+@font-face {
+    font-family: "scentq-heading"; 
+    src: url("//db.onlinewebfonts.com/t/1938eca97ab5576ba37b537143f552ef.eot"); 
+    src: url("//db.onlinewebfonts.com/t/1938eca97ab5576ba37b537143f552ef.eot?#iefix") 
+    format("embedded-opentype"), url("//db.onlinewebfonts.com/t/1938eca97ab5576ba37b537143f552ef.woff2")
+    format("woff2"), url("//db.onlinewebfonts.com/t/1938eca97ab5576ba37b537143f552ef.woff") 
+    format("woff"), url("//db.onlinewebfonts.com/t/1938eca97ab5576ba37b537143f552ef.ttf") 
+    format("truetype"), url("//db.onlinewebfonts.com/t/1938eca97ab5576ba37b537143f552ef.svg#adineue PRO") 
+    format("svg"); 
+} 
+/* Font bold */
+
+/* Normal font */
+@import url(//db.onlinewebfonts.com/c/c0cd6ec8ce6d2bbd315a13b62ed13550?family=AdihausDIN);
+@font-face {font-family: "scentq-normal"; 
+    src: url("//db.onlinewebfonts.com/t/c0cd6ec8ce6d2bbd315a13b62ed13550.eot"); 
+    src: url("//db.onlinewebfonts.com/t/c0cd6ec8ce6d2bbd315a13b62ed13550.eot?#iefix") 
+    format("embedded-opentype"), url("//db.onlinewebfonts.com/t/c0cd6ec8ce6d2bbd315a13b62ed13550.woff2")
+    format("woff2"), url("//db.onlinewebfonts.com/t/c0cd6ec8ce6d2bbd315a13b62ed13550.woff")
+    format("woff"), url("//db.onlinewebfonts.com/t/c0cd6ec8ce6d2bbd315a13b62ed13550.ttf")
+    format("truetype"), url("//db.onlinewebfonts.com/t/c0cd6ec8ce6d2bbd315a13b62ed13550.svg#AdihausDIN") 
+    format("svg"); 
+} 
+/* Normal font */
+
+/* Text font */
